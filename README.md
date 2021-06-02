@@ -1,2 +1,2 @@
 # evo_search
-An unsuccessful attempt of implementing AmoebaNet using Graph Nodes
+An unsuccessful attempt of implementing [AmoebaNet](https://arxiv.org/abs/1802.01548) using Graph Nodes
